@@ -1,0 +1,14 @@
+.text {
+  font-family: 'Courier';
+  font-size: 30px;
+  color: white;
+}
+
+.timerContainter {
+  padding: 20px;
+  width: 50%;
+  margin: 20px auto;
+  border-width: 1px;
+  border-color: red;
+  background-color: black;
+}
